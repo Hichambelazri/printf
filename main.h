@@ -26,4 +26,4 @@ int _strlen(char *str);
 char *_strcpy(char *destination, const char *source);
 
 
-#endif /* !MAIN_H */
+/* !MAIN_H */
